@@ -1,1 +1,1 @@
-First Java programming project with Hugo
+First Java programming project. Paulo & Hugo
